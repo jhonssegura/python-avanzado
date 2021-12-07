@@ -123,3 +123,9 @@ def saludo():
 
 saludo()
 ```
+
+## Generador
+
+Es una función que guarda un estado
+
+## Polifor
